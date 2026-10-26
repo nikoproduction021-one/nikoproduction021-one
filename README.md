@@ -18,13 +18,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,clion,pycharm" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notepadplusplus/notepadplusplus-original.svg" width="48" height="48" />
 </p>
 
 #### Game Engines & Development
 <p>
   <img src="https://skillicons.dev/icons?i=godot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/roblox/roblox-original.svg" width="48" height="48" />
 </p>
 
 ---
